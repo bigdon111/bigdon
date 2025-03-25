@@ -1,0 +1,24 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://bigdon111.github.io/bigdon/assets/banner.png",
+  "tintColor": "#2cb1be",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "BigDon HideLabels",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "A simple tweak that hides app labels on the 
+SpringBoard.",
+          "useSpacing": true
+        }
+      ]
+    }
+  ]
+}
