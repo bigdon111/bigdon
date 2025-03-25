@@ -1,13 +1,13 @@
-Package: bigdon
+Package: com.bigdon.hidelabels
 Name: BigDon
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
 Description: Hides all app labels on the SpringBoard
-Maintainer: bigdon
-Author: bigdon
+Maintainer: bigdon <kubasoldatg@gmail.com>
+Author: bigdon <kubasoldatg@gmail.com>
 Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/bigdon_0.0.1-1+debug_iphoneos-arm.deb
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: debs/bigdon_0.0.1-1+debug_iphoneos-arm.deb
 Size: 4468
 MD5sum: 7ca1e73c531427f683d7a20fd7b97c77
 SHA1: a01a0a752086024f9476890205999dc19026283d
