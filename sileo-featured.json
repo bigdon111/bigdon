@@ -4,9 +4,21 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-      "url": "https://bigdon111.github.io/bigdon/assets/banner.png",
+      "url": "https://bigdon111.github.io/bigdon/assets/banner1.png",
       "title": "BigDon",
-      "package": "bigdon",
+      "package": "com.bigdon.hidelabels",
+      "hideShadow": false
+    },
+    {
+      "url": "https://bigdon111.github.io/bigdon/assets/banner2.png",
+      "title": "CHAMA",
+      "package": "com.bigdon.hidelabels",
+      "hideShadow": false
+    },
+    {
+      "url": "https://bigdon111.github.io/bigdon/assets/banner3.png",
+      "title": "ossss",
+      "package": "com.bigdon.hidelabels",
       "hideShadow": false
     }
   ]
