@@ -1,17 +1,40 @@
-Package: com.bigdon.bigdon
-Name: BigDon
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm
-Description: Hides all app labels on the SpringBoard
-Maintainer: bigdon <kubasoldatg@gmail.com>
-Author: bigdon <kubasoldatg@gmail.com>
+Package: bigdon
+Name: bigdontweak
+Description: An awesome MobileSubstrate tweak!
+Maintainer: bigdon
+Author: bigdon
 Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Installed-Size: 216
+
+SileoDepiction: https://bigdon111.github.io/bigdon/sileo-depiction.json
+ModernDepiction: https://bigdon111.github.io/bigdon/sileo-depiction.json
+Icon: https://bigdon111.github.io/bigdon/CydiaIcon.png
 Filename: debs/bigdon_0.0.1-1+debug_iphoneos-arm.deb
 Size: 4468
 MD5sum: 7ca1e73c531427f683d7a20fd7b97c77
 SHA1: a01a0a752086024f9476890205999dc19026283d
 SHA256: 50d9b5155c307980eed0080b399b085e5de65b8d1aafcc8ec7ae6ceb93633413
+
+Package: bigdon
+Name: bigdontweak
+Description: An awesome MobileSubstrate tweak!
+Maintainer: bigdon
+Author: bigdon
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 0.0.1-1+debug
+Installed-Size: 216
+
 SileoDepiction: https://bigdon111.github.io/bigdon/sileo-depiction.json
 ModernDepiction: https://bigdon111.github.io/bigdon/sileo-depiction.json
 Icon: https://bigdon111.github.io/bigdon/CydiaIcon.png
+Filename: debs/bigdon_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 4420
+MD5sum: 8a6c6eacc08c51a901414dfecc02c1c5
+SHA1: a27aafd7a42ba7ab56d5bf851ea6fc0ec11d9e69
+SHA256: 3d8bbd0f3a362e6fe1897e468a2ea998c7e0049c7dd7205024088f96b998b202
+
