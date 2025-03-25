@@ -13,4 +13,5 @@ MD5sum: 7ca1e73c531427f683d7a20fd7b97c77
 SHA1: a01a0a752086024f9476890205999dc19026283d
 SHA256: 50d9b5155c307980eed0080b399b085e5de65b8d1aafcc8ec7ae6ceb93633413
 SileoDepiction: https://bigdon111.github.io/bigdon/sileo-depiction.json
-Icon: https://bigdon111.github.io/bigdon/assets/icon.png
+ModernDepiction: https://bigdon111.github.io/bigdon/sileo-depiction.json
+Icon: https://bigdon111.github.io/bigdon/CydiaIcon.png
