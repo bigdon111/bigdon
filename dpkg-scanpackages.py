@@ -21,6 +21,14 @@ with open("Packages", "w") as packages_file:
                 text=True
             )
             
+            # Replace old icon path with new one
+            control_data = control_data.replace("Icon: https://bigdon111.github.io/bigdon/assets/icon.png", "Icon: https://bigdon111.github.io/bigdon/CydiaIcon.png")
+            
+            # Add ModernDepiction if missing
+            if "SileoDepiction: " in control_data and "ModernDepiction: " not in control_data:
+                sileo_depiction = control_data.split("SileoDepiction: ")[1].split("\n")[0]
+                control_data = control_data + "\nModernDepiction: " + sileo_depiction
+            
             # Calculate MD5 and SHA checksums
             with open(deb_path, "rb") as f:
                 data = f.read()
