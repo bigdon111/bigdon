@@ -1,3 +1,35 @@
+Package: bigdon
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: bigdon
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bigdon.tweak_0.0.1-2+debug_iphoneos-arm64.deb
+Size: 6078
+MD5sum: 651f6162ba8b8b2d766966648e7a9073
+SHA1: 034fb2c90e85fc7b5954e3ab0273b5d35c98be35
+SHA256: 3b8e6d1393260f4b296015d5310e8b0d184ff9662f0fcb579cfae18421ff8af8
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: bigdon
+Name: bigdontweak
+
+Package: bigdon
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: bigdon
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bigdon.tweak_0.0.1-2+debug_iphoneos-arm.deb
+Size: 6078
+MD5sum: 651f6162ba8b8b2d766966648e7a9073
+SHA1: 034fb2c90e85fc7b5954e3ab0273b5d35c98be35
+SHA256: 3b8e6d1393260f4b296015d5310e8b0d184ff9662f0fcb579cfae18421ff8af8
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: bigdon
+Name: bigdontweak
+
 Package: com.bigdon.tweak
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
