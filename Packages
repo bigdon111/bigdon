@@ -1,96 +1,39 @@
-Package: bigdon
-Version: 0.0.1-2+debug
-Architecture: iphoneos-arm
+Generated Packages, Packages.gz, and Packages.bz2 files
+e MobileSubstrate tweak!
 Maintainer: bigdon
-Installed-Size: 216
+Author: bigdon
+Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.bigdon.tweak_0.0.1-2+debug_iphoneos-arm64.deb
+Architecture: iphoneos-arm
+Version: 0.0.1-2+debug
+Installed-Size: 216
+
+SileoDepiction: https://bigdon111.github.io/bigdon/sileo-depiction.json
+ModernDepiction: https://bigdon111.github.io/bigdon/sileo-depiction.json
+Icon: https://bigdon111.github.io/bigdon/CydiaIcon.png
+Filename: debs/com.bigdon.tweak_0.0.1-2+debug_iphoneos-arm64.deb
 Size: 6078
 MD5sum: 651f6162ba8b8b2d766966648e7a9073
 SHA1: 034fb2c90e85fc7b5954e3ab0273b5d35c98be35
 SHA256: 3b8e6d1393260f4b296015d5310e8b0d184ff9662f0fcb579cfae18421ff8af8
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: bigdon
-Name: bigdontweak
-
-Package: bigdon
-Version: 0.0.1-2+debug
-Architecture: iphoneos-arm
-Maintainer: bigdon
-Installed-Size: 216
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.bigdon.tweak_0.0.1-2+debug_iphoneos-arm.deb
-Size: 6078
-MD5sum: 651f6162ba8b8b2d766966648e7a9073
-SHA1: 034fb2c90e85fc7b5954e3ab0273b5d35c98be35
-SHA256: 3b8e6d1393260f4b296015d5310e8b0d184ff9662f0fcb579cfae18421ff8af8
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: bigdon
-Name: bigdontweak
 
 Package: com.bigdon.iconborder
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm
+Name: IconBorder
+Description: Adds a red border to app icons
 Maintainer: bigdon
-Installed-Size: 152
+Author: bigdon
+Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.bigdon.iconborder_0.0.2-1+debug_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Installed-Size: 152
+
+SileoDepiction: https://bigdon111.github.io/bigdon/sileo-depiction.json
+ModernDepiction: https://bigdon111.github.io/bigdon/sileo-depiction.json
+Icon: https://bigdon111.github.io/bigdon/CydiaIcon.png
+Filename: debs/com.bigdon.iconborder_0.0.2-1+debug_iphoneos-arm.deb
 Size: 4654
 MD5sum: 54eb618960085e24d392c409a3e7bf04
 SHA1: 3fa4aef518efb645b08acde6cd1abf014fd8b686
 SHA256: a336bd91d7fca51c419afda4bcecdd8f152ed859504ad495348f3064763f3177
-Section: Tweaks
-Description: Adds a red border to app icons
-Author: bigdon
-Name: IconBorder
-
-Package: com.bigdon.iconborder
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: bigdon
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.bigdon.iconborder_0.0.1-1+debug_iphoneos-arm.deb
-Size: 4654
-MD5sum: 54eb618960085e24d392c409a3e7bf04
-SHA1: 3fa4aef518efb645b08acde6cd1abf014fd8b686
-SHA256: a336bd91d7fca51c419afda4bcecdd8f152ed859504ad495348f3064763f3177
-Section: Tweaks
-Description: Adds a red border to app icons
-Author: bigdon
-Name: IconBorder
-
-Package: com.bigdon.tweak
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm64
-Maintainer: bigdon
-Installed-Size: 216
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.bigdon.tweak_0.0.1-1+debug_iphoneos-arm64.deb
-Size: 4460
-MD5sum: 67ed8cb4103fc5b5dae673c2c3ea2dee
-SHA1: aeaefc92cc112602c391fd0da9b49fd3d40342d0
-SHA256: cb88884214da42fca7e695cfca2f89fa4d8f54ec93eb7a2d904332d707218599
-Section: Tweaks
-Description: Absolute masterpiece lads, time for a cig now OSSS
-Author: bigdon
-Name: HideLabels
-
-Package: com.bigdon.tweak
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: bigdon
-Installed-Size: 216
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.bigdon.tweak_0.0.1-1+debug_iphoneos-arm.deb
-Size: 4452
-MD5sum: 8565853f1957642a5acbe025d8368f4d
-SHA1: b0a9091d9e321f6f25d18cf61a8b9bb3cc9bc95d
-SHA256: efa42d0c7719765fe154fece5eb2143982a90ae8bdf147ddebb3a82160ea3755
-Section: Tweaks
-Description: pasu lubne delam podel kradou za me kone
-Author: bigdon
-Name: HideLabels
 

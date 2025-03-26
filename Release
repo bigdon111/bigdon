@@ -1,10 +1,20 @@
-Origin: BigDon
+Origin: BigDon Repository
 Label: BigDon
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: Repository for BigDon tweaks
-Icon: CydiaIcon.png
-Tags: cydia::commercial, compatible::ios15, compatible::ios16, compatible::ios17
+Description: BigDon's Tweaks Repository
+MD5Sum:
+21ad5590eb26d518751e6c738719c4ee (Packages)
+b24d6bbb03dffd3963bc1890c78b0ac9 (Packages.bz2)
+4ee3e611623dbeadf4878b1a7edb615b (Packages.gz)
+SHA1:
+Packages 7015fa2093fe4d3d2a264648df442a11ab7fcebf
+Packages.bz2 75c689ef2de167b688aaaafbaf2c8ed217e073a0
+Packages.gz 7cc143017dce60978721a356d810b359fc226d0b
+SHA256:
+Packages 11291256761c353482111164ae99b64fb66ef31653b54705be917982e5142621
+Packages.bz2 915f046f9d80774dba05eb2c4dd7fc10c745a3b1b671ca94e58ce9a5bead6774
+Packages.gz 028920a3e8474e7972bc801fe5874ffc3a5822055f9b8d467709d672a82ddc0c
