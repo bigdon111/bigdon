@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: bigdon
 Installed-Size: 216
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.bigdon.tweak_0.0.1-2+debug_iphoneos-arm64.deb
+Filename: debs/com.bigdon.tweak_0.0.1-2+debug_iphoneos-arm64.deb
 Size: 6078
 MD5sum: 651f6162ba8b8b2d766966648e7a9073
 SHA1: 034fb2c90e85fc7b5954e3ab0273b5d35c98be35
@@ -20,7 +20,7 @@ Architecture: iphoneos-arm
 Maintainer: bigdon
 Installed-Size: 216
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.bigdon.tweak_0.0.1-2+debug_iphoneos-arm.deb
+Filename: debs/com.bigdon.tweak_0.0.1-2+debug_iphoneos-arm.deb
 Size: 6078
 MD5sum: 651f6162ba8b8b2d766966648e7a9073
 SHA1: 034fb2c90e85fc7b5954e3ab0273b5d35c98be35
@@ -36,7 +36,7 @@ Architecture: iphoneos-arm
 Maintainer: bigdon
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.bigdon.iconborder_0.0.1-1+debug_iphoneos-arm.deb
+Filename: debs/com.bigdon.iconborder_0.0.1-1+debug_iphoneos-arm.deb
 Size: 4654
 MD5sum: 54eb618960085e24d392c409a3e7bf04
 SHA1: 3fa4aef518efb645b08acde6cd1abf014fd8b686
@@ -52,7 +52,7 @@ Architecture: iphoneos-arm64
 Maintainer: bigdon
 Installed-Size: 216
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.bigdon.tweak_0.0.1-1+debug_iphoneos-arm64.deb
+Filename: debs/com.bigdon.tweak_0.0.1-1+debug_iphoneos-arm64.deb
 Size: 4460
 MD5sum: 67ed8cb4103fc5b5dae673c2c3ea2dee
 SHA1: aeaefc92cc112602c391fd0da9b49fd3d40342d0
@@ -68,7 +68,7 @@ Architecture: iphoneos-arm
 Maintainer: bigdon
 Installed-Size: 216
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.bigdon.tweak_0.0.1-1+debug_iphoneos-arm.deb
+Filename: debs/com.bigdon.tweak_0.0.1-1+debug_iphoneos-arm.deb
 Size: 4452
 MD5sum: 8565853f1957642a5acbe025d8368f4d
 SHA1: b0a9091d9e321f6f25d18cf61a8b9bb3cc9bc95d
