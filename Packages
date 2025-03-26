@@ -30,6 +30,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: bigdon
 Name: bigdontweak
 
+Package: com.bigdon.iconborder
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: bigdon
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bigdon.iconborder_0.0.1-1+debug_iphoneos-arm.deb
+Size: 4654
+MD5sum: 54eb618960085e24d392c409a3e7bf04
+SHA1: 3fa4aef518efb645b08acde6cd1abf014fd8b686
+SHA256: a336bd91d7fca51c419afda4bcecdd8f152ed859504ad495348f3064763f3177
+Section: Tweaks
+Description: Adds a red border to app icons
+Author: bigdon
+Name: IconBorder
+
 Package: com.bigdon.tweak
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
