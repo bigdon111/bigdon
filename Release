@@ -7,14 +7,14 @@ Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: BigDon's Tweaks Repository
 MD5Sum:
- 21ad5590eb26d518751e6c738719c4ee     1372 Packages
- b24d6bbb03dffd3963bc1890c78b0ac9      688 Packages.bz2
- 9ddd1b3920eec82b436d916b1bc3e5a1      593 Packages.gz
+ 12974a54cd21e75c7016ea093afda6b4     1165 Packages
+ 59fa09ae099fd739d2316641c9732e19      638 Packages.bz2
+ 3b6c286c6f34c4d0d3dc359edd82b3ea      569 Packages.gz
 SHA1:
- 7015fa2093fe4d3d2a264648df442a11ab7fcebf     1372 Packages
- 75c689ef2de167b688aaaafbaf2c8ed217e073a0      688 Packages.bz2
- c2be3c1547a7266dc503a4f3bf16ef1bbe0b43a3      593 Packages.gz
+ 107de489cf77ce78f970b2d1af7fa0f0cfb559f6     1165 Packages
+ 247199a7eb429b81651f6bfa3283c271d5cf6eb9      638 Packages.bz2
+ 0d51cc4846d2ba6dbd24b1b77948399527a54705      569 Packages.gz
 SHA256:
- 11291256761c353482111164ae99b64fb66ef31653b54705be917982e5142621     1372 Packages
- 915f046f9d80774dba05eb2c4dd7fc10c745a3b1b671ca94e58ce9a5bead6774      688 Packages.bz2
- 796502b02519a60466b25a44551bcd125fa8e479901e92fece7872893976cadd      593 Packages.gz
+ 991cdbc19a97914803c8d08abbe6640e9e37cdf3b73780ad49660bedd7a36b6f     1165 Packages
+ 7ce956cca97fb42635ce6dca27f516d3534412b13b965159a51c521120546719      638 Packages.bz2
+ 3a14851e6ac5a39245dd2ae814b530697cb92f106c6ccc7273669962a82e6a79      569 Packages.gz

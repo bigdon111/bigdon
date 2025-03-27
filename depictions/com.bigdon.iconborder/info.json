@@ -1,0 +1,24 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://bigdon111.github.io/bigdon/assets/banner1.png",
+  "tintColor": "#2cb1be",
+  "packageID": "com.bigdon.iconborder",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "IconBorder",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Adds a red border to app icons",
+          "useSpacing": true
+        }
+      ]
+    }
+  ]
+}

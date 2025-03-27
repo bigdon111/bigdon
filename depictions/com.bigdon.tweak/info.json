@@ -1,0 +1,24 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://bigdon111.github.io/bigdon/assets/banner1.png",
+  "tintColor": "#2cb1be",
+  "packageID": "com.bigdon.tweak",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "BigDon Tweak",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "An awesome MobileSubstrate tweak!",
+          "useSpacing": true
+        }
+      ]
+    }
+  ]
+}
